@@ -1,0 +1,16 @@
+package cn.edu.sylu;
+/*
+ * 
+ *⑤数组元素逇默认初始化值 
+ * 
+ * 
+ * 
+ * 
+*/
+public class ArrayTest1 {
+	
+	public static void main(String[] args) {
+		//5.数组元素逇默认初始化值
+	}
+
+}
