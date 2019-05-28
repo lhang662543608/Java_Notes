@@ -1,0 +1,26 @@
+package sylu.java;
+/*
+ * 
+ * 类中属性的使用：
+ * 属性(成员变量) vs 局部变量
+ * 1.相同点
+ * 
+ * 
+ * 2.不同点
+ * 	2.1在类中声明的位置不同
+ * 		属性:直接定义在一对{}内。
+ * 		局部变量：声明在方法内，方法形参，代码块内，构造器形参，构造器内部的变量。
+ * 
+ * 
+ * 
+ * 
+ */
+public class UserTest {
+
+}
+class User{
+	//属性(或成员变量)
+	String name;
+	int age;
+	boolean  isMale;
+}

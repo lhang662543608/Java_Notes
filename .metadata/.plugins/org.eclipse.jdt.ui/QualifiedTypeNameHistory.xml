@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="sylu.java.Person"/>
+<fullyQualifiedTypeName name="sylu.java.User"/>
+<fullyQualifiedTypeName name="java.lang.Void"/>
+<fullyQualifiedTypeName name="sylu.exer.Person"/>
+<fullyQualifiedTypeName name="sylu.exer.Circle"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
