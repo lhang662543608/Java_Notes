@@ -7,4 +7,7 @@
 <fullyQualifiedTypeName name="sylu.exer.Person"/>
 <fullyQualifiedTypeName name="sylu.exer.Circle"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="sylu.java.Phone"/>
+<fullyQualifiedTypeName name="sylu.java.ArrayUtil"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
 </qualifiedTypeNameHistroy>

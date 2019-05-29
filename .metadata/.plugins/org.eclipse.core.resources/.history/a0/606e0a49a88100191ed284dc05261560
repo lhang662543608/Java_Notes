@@ -1,0 +1,8 @@
+package sylu.java1;
+
+public class OverLoadTest {
+	public static void main(String[] args) {
+	System.out.println();	
+	}
+
+}

@@ -1,0 +1,13 @@
+package sylu.java;
+/*
+ * 自定义数组的工具类
+ * 
+ * 
+ */
+public class ArrayUtil {
+	
+	//求数组的最大值
+	//求数组的最小值
+	//求数组的总和
+	//求数组的均值
+}
