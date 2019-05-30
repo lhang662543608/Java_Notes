@@ -1,0 +1,18 @@
+package sylu.java;
+/*
+ * 面向对象的特征之一：封装与隐藏
+ * 
+ *
+ */
+public class AnimalTest {
+
+}
+class Animal{
+	String name;
+	int age;
+	int legs;//腿的个数
+	
+	public void eat(){
+		System.out.println("动物进食");
+	}
+}
