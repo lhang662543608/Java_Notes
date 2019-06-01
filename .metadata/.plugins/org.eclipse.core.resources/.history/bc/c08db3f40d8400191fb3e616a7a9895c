@@ -1,0 +1,10 @@
+package sylu.exer1;
+
+public class CylinderTest {
+	public static void main(String[] args) {
+		Cylinder cylinder = new Cylinder();
+		double volume = cylinder.findVolume();
+		System.out.println(volume);
+	}
+
+}

@@ -1,0 +1,12 @@
+package sylu.exer1;
+
+import java.awt.image.VolatileImage;
+
+public class CylinderTest {
+	public static void main(String[] args) {
+		Cylinder cylinder = new Cylinder();
+		double volume = cylinder.findVolume();
+		System.out.println(volume);
+	}
+
+}

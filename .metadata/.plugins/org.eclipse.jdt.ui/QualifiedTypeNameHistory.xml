@@ -6,10 +6,17 @@
 <fullyQualifiedTypeName name="java.lang.Void"/>
 <fullyQualifiedTypeName name="sylu.exer.Person"/>
 <fullyQualifiedTypeName name="sylu.exer.Circle"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="sylu.java.Phone"/>
 <fullyQualifiedTypeName name="sylu.java.ArrayUtil"/>
 <fullyQualifiedTypeName name="java.lang.Object"/>
 <fullyQualifiedTypeName name="sylu.java.Animal"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="sylu.exer.ManKind"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.JobName"/>
+<fullyQualifiedTypeName name="sylu.exer.Kids"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="sylu.exer1.Circle"/>
+<fullyQualifiedTypeName name="sylu.exer1.Cylinder"/>
+<fullyQualifiedTypeName name="java.awt.image.VolatileImage"/>
+<fullyQualifiedTypeName name="sylu.java2.Order"/>
 </qualifiedTypeNameHistroy>
