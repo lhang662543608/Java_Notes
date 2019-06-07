@@ -1,0 +1,12 @@
+package sylu.team.service;
+
+import sylu.team.domain.*;
+
+public class TeamService {
+	public  Programmer[] getTeam(){
+		return null;
+	}
+	public void addMember(Employee e) throws TeamException{
+		return null;
+	}
+}

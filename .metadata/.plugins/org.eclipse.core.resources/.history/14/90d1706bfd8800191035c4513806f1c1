@@ -1,0 +1,37 @@
+package sylu.team.service;
+
+import sylu.team.domain.*;
+import static sylu.team.service.Data.*;;
+public class NameListService {
+	private Employee[] employees;
+	
+	public void NameListService(){
+		employees = new Employee[EMPLOYEES.length];
+	}
+	
+	private Equipment createEquipment(int index) {
+		int type = Integer.parseInt(EQIPMENTS[index][0]);
+		switch (type) {
+		case PC:
+			return new PC(EQIPMENTS[index][1], EQIPMENTS[index][2]);
+		case NOTEBOOK:
+			int price = Integer.parseInt(EQIPMENTS[index][2]);
+			return new NoteBook(EQIPMENTS[index][1], price);
+		case PRINTER:
+			return new Printer(EQIPMENTS[index][1], EQIPMENTS[index][2]);
+		}
+		return null;
+	}
+	
+	public Employee[]  getAllEmployees() {
+		return employees;
+	}
+	
+	public  Employee getEmployee(int id) throws TeamException {
+		for (Employee e : employees) {
+			if (e.getId() == id)
+				return e;
+		}
+		throw new TeamException("该员工不存在");
+	}
+}

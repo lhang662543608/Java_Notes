@@ -1,0 +1,5 @@
+package sylu.team.service;
+
+public class Status {
+
+}

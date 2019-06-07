@@ -1,0 +1,5 @@
+package sylu.team.domain;
+
+public class Architect extends Designer {
+
+}

@@ -5,6 +5,7 @@
 		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="H:\尚硅谷\java基础阶段\尚硅谷Java核心基础_2019年版\课件笔记源码资料\2_项目\Project3（开发团队人员调度软件）\3.2-参考实现\最终代码\Project03"/>
 			<item value="H:\尚硅谷\java基础阶段\尚硅谷Java核心基础_2019年版\课件笔记源码资料\5_代码\第1部分：Java基础编程\day06-day18：Eclipse\workspace0105\day16"/>
 			<item value="H:\尚硅谷\java基础阶段\尚硅谷Java核心基础_2019年版\课件笔记源码资料\2_项目\Project2（客户信息管理软件）\2.2-参考实现\最终版\Project02"/>
 		</list>

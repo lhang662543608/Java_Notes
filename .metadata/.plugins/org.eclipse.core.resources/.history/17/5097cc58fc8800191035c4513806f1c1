@@ -1,0 +1,23 @@
+package sylu.team.service;
+
+import sylu.team.domain.*;
+
+public class NameListService {
+	private Employee[] employees;
+	
+	public void NameListService(){
+		
+	}
+	
+	public Employee[]  getAllEmployees() {
+		return employees;
+	}
+	
+	public  Employee getEmployee throws TeamException(int id) {
+		for (Employee e : employees) {
+			if (e.getId() == id)
+				return e;
+		}
+		throw new TeamException("该员工不存在");
+	}
+}
