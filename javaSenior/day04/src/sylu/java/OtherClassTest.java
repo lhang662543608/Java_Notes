@@ -12,6 +12,14 @@ import java.math.BigInteger;
  * 3.BigInteger 和 BigDecimal
  */
 public class OtherClassTest {
+    @Test
+    public void test3(){
+        System.out.println("5%-2="+(5%-2));
+        System.out.println("5%2="+(5%2));
+        System.out.println("-5%-2="+(-5%-2));
+        System.out.println("-5%2="+(-5%2));
+
+    }
 
     @Test
     public void test1() {

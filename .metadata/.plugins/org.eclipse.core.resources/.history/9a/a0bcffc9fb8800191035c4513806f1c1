@@ -1,7 +1,0 @@
-package sylu.team.service;
-
-import sylu.team.domain.*;
-
-public class NameListService {
-	private Employee[] employees;
-}

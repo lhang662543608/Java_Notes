@@ -5,7 +5,7 @@ public class StudentTest {
 	public static void main(String[] args) {
 		try {
 			Student s = new Student();
-			s.regist(-1001);
+			s.regist(1001);
 			System.out.println(s);
 		} catch (Exception e) {
 //			e.printStackTrace();
