@@ -1,55 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d77a87b3-73f2-425d-a4b2-58c48659768b" name="Default" comment="" />
+    <list default="true" id="d77a87b3-73f2-425d-a4b2-58c48659768b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/nowcoder/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/dataSources/71d40760-1550-4274-99e2-92976ddf62e0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/dataSources/8c395dd8-524f-41fa-bc1b-7ec4833a8e46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/dataSources/ae08e36b-dcba-4f4a-9ca0-40763de119f5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/c3p0_0_9_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/c3p0_oracle_thin_extras_0_9_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_beanutils_1_9_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_collections4_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_dbcp_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_dbcp_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_dbutils_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_pool_1_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/mchange_commons_java_0_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/mysql_connector_java_5_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/JDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/jdbcTest01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/src/jdbcTest01/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/src/jdbcTest01/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/jdbcTest02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/ReflectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/ReviewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/jdbcTest03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/myschool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/BeanUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/DAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/DAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/MetaDataTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/TransactionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/sylu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/jdbcTest04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/dbcp.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/CustomerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/CustomerDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/DAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/DBUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/JdbcDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/ReflectionUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/sql.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/jdbcTest05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/DBUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/JDBCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/JDBCTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/c3p0-oracle-thin-extras-0.9.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-collections4-4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-dbcp-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-dbutils-1.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-pool-1.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/mysql-connector-java-5.1.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/javaWeb/META-INF/javaWeb.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/META-INF/jdbcTest01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/jdbcTest01/JDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/jdbcTest01/JDBCTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/JDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/JDBCTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/ReflectionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/ReviewTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/BeanUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/DAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/DAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/JDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/JDBCTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/MetaDataTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/TransactionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/dbcp.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/DBUtilsTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/DBUtilsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/JDBCTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/JDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/JDBCTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/sql.properties" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringBuliderTest.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Note/src/StringRelationClassExer/StringBuilder/StringBuliderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="487">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SystemTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Note/src/SystemClassTest/SystemTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1248">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="abstractMethodTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExamTest/src/java/abstractMethodTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Note/src/SystemClassTest/SystemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultAbstractMethodTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExamTest/src/java/DefaultAbstractMethodTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="1325">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,15 +194,12 @@
       <replace>1000</replace>
     </replaceStrings>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ThreadExtend.java" />
         <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ExtendThreadmode/ThreadTest.java" />
         <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ExtendThreadmode/MyThread2.java" />
         <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ExtendThreadmode/MyThread1.java" />
@@ -139,14 +250,9 @@
         <option value="$PROJECT_DIR$/Note/src/MathClassTest/MathTest.java" />
         <option value="$PROJECT_DIR$/Note/src/StringRelationClassExer/StringTest/StringTest.java" />
         <option value="$PROJECT_DIR$/Note/src/StringRelationClassExer/StringBuilder/StringBuliderTest.java" />
+        <option value="$PROJECT_DIR$/Test/src/nowcoder/Test01.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -154,69 +260,37 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ExamAndExer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamAndExer" type="462c0819:PsiDirectoryNode" />
+              <item name="Exer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ExamAndExer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamAndExer" type="462c0819:PsiDirectoryNode" />
-              <item name="ExamTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamAndExer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamAndExer" type="462c0819:PsiDirectoryNode" />
-              <item name="ExamTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamAndExer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamAndExer" type="462c0819:PsiDirectoryNode" />
-              <item name="ExamTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamAndExer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamAndExer" type="462c0819:PsiDirectoryNode" />
-              <item name="Note" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamAndExer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamAndExer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exer" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -244,195 +318,138 @@
   </component>
   <component name="RunManager" selected="JUnit.StringBuliderTest.test1">
     <configuration name="ComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="javaComparable.javaLangComparable.ComparableTest" />
+      <module name="Note" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaComparable.javaLangComparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaComparable.javaLangComparable.ComparableTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Note" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MathTest.MathTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="Note" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="MathClassTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Note" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="MathClassTest" />
       <option name="MAIN_CLASS_NAME" value="MathClassTest.MathTest" />
       <option name="METHOD_NAME" value="MathTest3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StringBuliderTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="Note" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringRelationClassExer.StringBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Note" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="StringRelationClassExer.StringBuilder" />
       <option name="MAIN_CLASS_NAME" value="StringRelationClassExer.StringBuilder.StringBuliderTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="Note" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringRelationClassExer.StringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Note" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="StringRelationClassExer.StringTest" />
       <option name="MAIN_CLASS_NAME" value="StringRelationClassExer.StringTest.StringTest" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="Note" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringRelationClassExer.StringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Note" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="StringRelationClassExer.StringTest" />
       <option name="MAIN_CLASS_NAME" value="StringRelationClassExer.StringTest.StringTest" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StringTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="Note" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringRelationClassExer.StringTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Note" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="StringRelationClassExer.StringTest" />
       <option name="MAIN_CLASS_NAME" value="StringRelationClassExer.StringTest.StringTest" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Exer" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MathTest.MathTest3" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.StringTest.test1" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.StringTest.test2" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StringTest.test3" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.StringBuliderTest.test1" />
+    <list>
+      <item itemvalue="Application.ComparableTest" />
+      <item itemvalue="JUnit.MathTest.MathTest3" />
+      <item itemvalue="JUnit.StringTest.test1" />
+      <item itemvalue="JUnit.StringTest.test2" />
+      <item itemvalue="JUnit.StringTest.test3" />
+      <item itemvalue="JUnit.StringBuliderTest.test1" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StringBuliderTest.test1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.StringTest.test3" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.StringTest.test2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.StringTest.test1" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MathTest.MathTest3" />
+      <list>
+        <item itemvalue="JUnit.StringBuliderTest.test1" />
+        <item itemvalue="JUnit.StringTest.test3" />
+        <item itemvalue="JUnit.StringTest.test2" />
+        <item itemvalue="JUnit.StringTest.test1" />
+        <item itemvalue="JUnit.MathTest.MathTest3" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -459,6 +476,7 @@
       <workItem from="1562995455970" duration="23176000" />
       <workItem from="1563095702415" duration="8390000" />
       <workItem from="1563184524363" duration="3479000" />
+      <workItem from="1565400837624" duration="238000" />
     </task>
     <servers />
   </component>
@@ -495,89 +513,83 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89198000" />
+    <option name="totallyTimeSpent" value="89436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48639455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3343419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33963692" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48639455" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="544" id="Documentation" order="9" type="FLOATING" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="92" y="92" width="1182" height="544" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6683673" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11497731" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11497731" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6683673" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="544" id="Documentation" order="9" type="FLOATING" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="3" />
-    </breakpoint-manager>
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Note/src/TimeRelationClassExer/javaLangsystem_and_javaUtilDate/SystemAndDateTest.java" />
     <entry file="file://$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/JavaUtilData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
-          <caret line="28" column="7" lean-forward="false" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -591,7 +603,7 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="459" column="51" lean-forward="false" selection-start-line="459" selection-start-column="41" selection-end-line="459" selection-end-column="51" />
+          <caret line="459" column="51" selection-start-line="459" selection-start-column="41" selection-end-line="459" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -619,7 +631,7 @@
     <entry file="file://$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/javaUtilCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
-          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -627,70 +639,70 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="140" column="37" lean-forward="false" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
+          <caret line="140" column="37" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3263">
-          <caret line="136" column="19" lean-forward="false" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
+          <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/ZonedDateTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
-          <caret line="198" column="38" lean-forward="false" selection-start-line="198" selection-start-column="38" selection-end-line="198" selection-end-column="38" />
+          <caret line="198" column="38" selection-start-line="198" selection-start-column="38" selection-end-line="198" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/security/action/GetPropertyAction.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/security/AccessController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="854">
-          <caret line="297" column="31" lean-forward="false" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
+          <caret line="297" column="31" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/TimeZone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="763" column="52" lean-forward="false" selection-start-line="763" selection-start-column="49" selection-end-line="763" selection-end-column="52" />
+          <caret line="763" column="52" selection-start-line="763" selection-start-column="49" selection-end-line="763" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/Clock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
-          <caret line="177" column="45" lean-forward="false" selection-start-line="177" selection-start-column="45" selection-end-line="177" selection-end-column="45" />
+          <caret line="177" column="45" selection-start-line="177" selection-start-column="45" selection-end-line="177" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/javaTextSimpleDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
-          <caret line="33" column="84" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="84" />
+          <caret line="33" column="84" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/ZoneId.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="288" column="30" lean-forward="false" selection-start-line="288" selection-start-column="30" selection-end-line="288" selection-end-column="30" />
+          <caret line="288" column="30" selection-start-line="288" selection-start-column="30" selection-end-line="288" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/format/FormatStyle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1163">
-          <caret line="61" column="7" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="7" />
+          <caret line="61" column="7" selection-start-line="61" selection-end-line="61" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -704,35 +716,35 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/format/DateTimeFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1762">
-          <caret line="1371" column="4" lean-forward="false" selection-start-line="1371" selection-start-column="4" selection-end-line="1371" selection-end-column="4" />
+          <caret line="1371" column="4" selection-start-line="1371" selection-start-column="4" selection-end-line="1371" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/Instant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="97" column="24" lean-forward="false" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="42" />
+          <caret line="97" column="24" selection-start-line="97" selection-start-column="3" selection-end-line="97" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/temporal/TemporalField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7151">
-          <caret line="93" column="17" lean-forward="false" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/temporal/ChronoField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="563" column="10" lean-forward="false" selection-start-line="563" selection-start-column="7" selection-end-line="563" selection-end-column="10" />
+          <caret line="563" column="10" selection-start-line="563" selection-start-column="7" selection-end-line="563" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/TimeRelationClassExer/Java8_JavaTime/JavaTimeTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
         </state>
       </provider>
     </entry>
@@ -746,71 +758,69 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDateTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="916" column="25" lean-forward="false" selection-start-line="916" selection-start-column="25" selection-end-line="916" selection-end-column="25" />
+          <caret line="916" column="25" selection-start-line="916" selection-start-column="25" selection-end-line="916" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/temporal/TemporalAdjuster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="149" column="23" lean-forward="false" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="23" />
+          <caret line="149" column="23" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/TimeRelationClassExer/Java8_JavaTime/JavaTimeTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="163" column="22" lean-forward="false" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
+          <caret line="163" column="22" selection-start-line="163" selection-start-column="22" selection-end-line="163" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/javaComparable/javaLangComparable/Goods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="1241" column="23" lean-forward="false" selection-start-line="1241" selection-start-column="23" selection-end-line="1241" selection-end-column="23" />
+          <caret line="1241" column="23" selection-start-line="1241" selection-start-column="23" selection-end-line="1241" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/javaComparable/javaUtilComparator/Goods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-75" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/javaComparable/javaLangComparable/ComparableTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="998" column="22" lean-forward="false" selection-start-line="998" selection-start-column="22" selection-end-line="998" selection-end-column="22" />
+          <caret line="998" column="22" selection-start-line="998" selection-start-column="22" selection-end-line="998" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/javaComparable/javaUtilComparator/ComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
-          <caret line="72" column="42" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="42" />
+          <caret line="72" column="42" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1162">
-          <caret line="123" column="36" lean-forward="false" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -825,21 +835,21 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="271" column="26" lean-forward="false" selection-start-line="271" selection-start-column="26" selection-end-line="271" selection-end-column="26" />
+          <caret line="271" column="26" selection-start-line="271" selection-start-column="26" selection-end-line="271" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/MathClassTest/MathTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1004">
-          <caret line="82" column="54" lean-forward="false" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="54" />
+          <caret line="82" column="54" selection-start-line="82" selection-start-column="54" selection-end-line="82" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="113" column="23" lean-forward="false" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
           <folding>
             <element signature="e#4677#4678#0" expanded="false" />
             <element signature="e#4714#4715#0" expanded="false" />
@@ -853,7 +863,7 @@
     <entry file="file://$PROJECT_DIR$/Note/src/StringRelationClassExer/StringTest/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -861,7 +871,7 @@
     <entry file="file://$PROJECT_DIR$/Note/src/StringRelationClassExer/StringTest/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-450">
-          <caret line="78" column="48" lean-forward="false" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -869,7 +879,7 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="267" column="37" lean-forward="false" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
+          <caret line="267" column="37" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -885,10 +895,10 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="147" column="19" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
           <folding>
-            <element signature="e#5748#5749#0" expanded="false" />
-            <element signature="e#5784#5785#0" expanded="false" />
+            <element signature="e#5748#5749#0" />
+            <element signature="e#5784#5785#0" />
           </folding>
         </state>
       </provider>
@@ -896,7 +906,7 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-488">
-          <caret line="46" column="15" lean-forward="false" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -904,7 +914,7 @@
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
-          <caret line="76" column="25" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
           <folding>
             <element signature="e#2871#2872#0" expanded="false" />
             <element signature="e#2896#2897#0" expanded="false" />
@@ -912,37 +922,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ExamTest/src/java/abstractMethodTest.java" />
+    <entry file="file://$PROJECT_DIR$/ExamTest/src/java/DefaultAbstractMethodTest.java" />
     <entry file="file://$PROJECT_DIR$/Note/src/StringRelationClassExer/StringBuilder/StringBuliderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="487">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/SystemClassTest/SystemTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="1325">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExamTest/src/java/abstractMethodTest.java">
+    <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExamTest/src/java/DefaultAbstractMethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="250">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
