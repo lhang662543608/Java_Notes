@@ -2,117 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77a87b3-73f2-425d-a4b2-58c48659768b" name="Default" comment="nowcoder exer">
-      <change afterPath="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/dataSources/71d40760-1550-4274-99e2-92976ddf62e0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/dataSources/8c395dd8-524f-41fa-bc1b-7ec4833a8e46.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/dataSources/ae08e36b-dcba-4f4a-9ca0-40763de119f5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/c3p0_0_9_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/c3p0_oracle_thin_extras_0_9_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_beanutils_1_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_collections4_4_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_dbcp_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_dbcp_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_dbutils_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/commons_pool_1_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/mchange_commons_java_0_2_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/libraries/mysql_connector_java_5_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/javaWeb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/jdbcTest01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/src/jdbcTest01/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest01/src/jdbcTest01/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/jdbcTest02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/ReflectionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/ReviewTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest02/src/jdbcTest02/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/jdbcTest03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/myschool.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/BeanUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/DAOTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/MetaDataTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/src/jdbcTest03/TransactionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest03/sylu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/jdbcTest04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/dbcp.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/CustomerDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/CustomerDaoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/DBUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/JdbcDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/jdbcTest04/ReflectionUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest04/src/sql.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/jdbcTest05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/DBUtilsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/JDBCTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/jdbcTest05/src/jdbcTest05/JDBCTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/c3p0-0.9.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/c3p0-oracle-thin-extras-0.9.5.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-collections4-4.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-dbcp-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-dbutils-1.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/commons-pool-1.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/mchange-commons-java-0.2.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/lib/mysql-connector-java-5.1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/javaWeb/META-INF/javaWeb.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/META-INF/jdbcTest01.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/jdbcTest01/JDBCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest01/jdbcTest01/JDBCTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/JDBCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/JDBCTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/ReflectionUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/ReviewTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest02/jdbcTest02/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/BeanUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/DAOTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/JDBCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/JDBCTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/MetaDataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest03/jdbcTest03/TransactionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/dbcp.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/DBUtilsTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/DBUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/JDBCTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/JDBCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/jdbcTest04/JDBCTools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaWeb/out/production/jdbcTest04/sql.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,20 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test02.java">
+        <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Inc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="100">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ExtendThreadmode/MyThread1.java" />
-        <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ExtendsThreadmode/MyThread1.java" />
         <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ExtendsThreadmode/ThreadTest.java" />
         <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ImplentsRunnableMode/MyThread2.java" />
         <option value="$PROJECT_DIR$/Exer/src/ThreadExer/ImplentsRunnableMode/ThreadTest.java" />
@@ -227,6 +110,8 @@
         <option value="$PROJECT_DIR$/Test/src/nowcoder/Test01.java" />
         <option value="$PROJECT_DIR$/Note/src/StringRelationClassExer/readme" />
         <option value="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" />
+        <option value="$PROJECT_DIR$/Test/src/nowcoder/Test03.java" />
+        <option value="$PROJECT_DIR$/Test/src/nowcoder/Inc.java" />
       </list>
     </option>
   </component>
@@ -305,7 +190,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test02">
+  <component name="RunManager" selected="Application.Inc">
+    <configuration name="Inc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.Inc" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcoder.Test01" />
       <module name="Test" />
@@ -350,24 +248,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Note" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringRelationClassExer.StringTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="StringRelationClassExer.StringTest" />
-      <option name="MAIN_CLASS_NAME" value="StringRelationClassExer.StringTest.StringTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Note" />
       <extension name="coverage">
@@ -401,18 +281,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test01" />
-      <item itemvalue="JUnit.StringTest.test2" />
+      <item itemvalue="Application.Test02" />
       <item itemvalue="JUnit.StringTest.test3" />
       <item itemvalue="JUnit.StringBuliderTest.test1" />
-      <item itemvalue="Application.Test02" />
+      <item itemvalue="Application.Inc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inc" />
         <item itemvalue="Application.Test02" />
         <item itemvalue="Application.Test01" />
         <item itemvalue="JUnit.StringBuliderTest.test1" />
         <item itemvalue="JUnit.StringTest.test3" />
-        <item itemvalue="JUnit.StringTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +324,8 @@
       <workItem from="1565400837624" duration="435000" />
       <workItem from="1565401310110" duration="833000" />
       <workItem from="1568799265255" duration="183000" />
-      <workItem from="1568800131909" duration="744000" />
+      <workItem from="1568800131909" duration="1635000" />
+      <workItem from="1568884226248" duration="296000" />
     </task>
     <task id="LOCAL-00001" summary="nowcoder exer">
       <created>1565401267724</created>
@@ -453,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565401267724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nowcoder exer">
+      <created>1568801000341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568801000341</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -489,12 +377,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91393000" />
+    <option name="totallyTimeSpent" value="92580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13615733" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -504,14 +393,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.48634812" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32935154" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -564,14 +453,19 @@
     <MESSAGE value="nowcoder exer" />
     <option name="LAST_COMMIT_MESSAGE" value="nowcoder exer" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/src/nowcoder/Inc.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="459" column="51" selection-start-line="459" selection-start-column="41" selection-end-line="459" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/text/SimpleDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -786,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1162">
           <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,11 +709,11 @@
         <state relative-caret-position="179">
           <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
           <folding>
-            <element signature="e#4677#4678#0" expanded="false" />
-            <element signature="e#4714#4715#0" expanded="false" />
-            <element signature="method#String#1;class#String#0" expanded="false" />
-            <element signature="e#5687#5688#0" expanded="false" />
-            <element signature="e#5750#5751#0" expanded="false" />
+            <element signature="e#4677#4678#0" />
+            <element signature="e#4714#4715#0" />
+            <element signature="method#String#1;class#String#0" />
+            <element signature="e#5687#5688#0" />
+            <element signature="e#5750#5751#0" />
           </folding>
         </state>
       </provider>
@@ -896,13 +789,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Note/src/StringRelationClassExer/readme" />
-    <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -910,10 +796,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Test02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="287">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Inc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
