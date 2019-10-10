@@ -1,0 +1,7 @@
+127.0.0.1 - - [15/Sep/2019:20:48:36 +0800] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [15/Sep/2019:20:48:37 +0800] "GET /day08/shoppingcart/step-1.jsp HTTP/1.1" 200 941
+0:0:0:0:0:0:0:1 - - [15/Sep/2019:20:48:40 +0800] "POST /day08/processStep1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Sep/2019:20:48:40 +0800] "GET /day08/shoppingcart/step-2.jsp HTTP/1.1" 200 1150
+0:0:0:0:0:0:0:1 - - [15/Sep/2019:20:49:02 +0800] "GET /day08/shoppingcart/step-1.jsp HTTP/1.1" 200 941
+0:0:0:0:0:0:0:1 - - [15/Sep/2019:20:49:09 +0800] "GET /day08/shoppingcart/step-1.jsp HTTP/1.1" 200 941
+0:0:0:0:0:0:0:1 - - [15/Sep/2019:20:49:09 +0800] "GET /favicon.ico HTTP/1.1" 404 1047

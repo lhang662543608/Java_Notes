@@ -1,0 +1,7 @@
+<classpath>
+  <container id="mvc!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="F:/myLearningRoad/java_road/JavaWeb/mvc/WebContent/WEB-INF/lib/c3p0-0.9.5.2.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/c3p0-0.9.5.2/src/c3p0-0.9.5.2-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

@@ -6,7 +6,7 @@ package DesignPatterns.ProxyPatterns.DynamicProxy;
  */
 public class DynamicProxyTest {
     public static void main(String[] args) {
-        Singer singer = new Singer();
+        Sing singer = new Singer();
         Sing ProxyInstance = (Sing) ProxyFactory.newProxyInstance(singer);
         ProxyInstance.sing();
     }

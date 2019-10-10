@@ -1,0 +1,6 @@
+#Sun Sep 15 20:32:26 CST 2019
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=Web Module

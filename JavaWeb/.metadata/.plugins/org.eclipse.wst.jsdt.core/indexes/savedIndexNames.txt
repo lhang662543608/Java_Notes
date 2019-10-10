@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+F:\myLearningRoad\java_road\JavaWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2005742363.index
+4274374112.index
+1445046553.index
+2871708221.index
+766039812.index
+3563402830.index
+3419926629.index
