@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d34ae5bb-6324-42bc-b1f7-0a7499290c2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Exer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic/README.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_8/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_8/Multiton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-339">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="XSLT Stylesheet" />
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/Button.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/LinuxButton.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/LinuxText.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/UnixButton.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/UnixText.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/WindowsButton.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/WindowsText.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/SystemFactory.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/WindowsFactory.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/UnixFactory.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/LinuxFactory.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/config.xml" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/Client.java" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/ComputerBuilder.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/ComputerAssembleDirector.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Desktop.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Client.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Server.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/father.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/son.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/NoteBook.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Computer.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/FullModeBuilder.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/SimpleModeBuilder.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/ModeBuilder.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/ScreenModeController.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/VideoSoft.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/config.xml" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/config.xml" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/Client.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_4/DataSet.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_4/DataChart.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_4/Client.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/OfficialDocument.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/FAR.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/SRS.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/Client.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/PrototypeManager.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/shallowClone/Customer.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/deelpClone/Customer.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/Client.java" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/deelpClone/Address.java" />
+        <option value="$PROJECT_DIR$/chapter8_Singleton/src/chapter8_7/SubFrame.java" />
+        <option value="$PROJECT_DIR$/chapter8_Singleton/src/chapter8_7/Client.java" />
+        <option value="$PROJECT_DIR$/chapter8_Singleton/src/chapter8_7/MainClass.java" />
+        <option value="$PROJECT_DIR$/chapter8_Singleton/src/chapter8_8/Multiton.java" />
+        <option value="$PROJECT_DIR$/chapter8_Singleton/src/chapter8_8/Client.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/ExerciseCode.iml" />
+        <option value="$PROJECT_DIR$/chapter3_SimpleFactory/chapter3_SimpleFactory.iml" />
+        <option value="$PROJECT_DIR$/chapter4_FactoryMethod/chapter4_FactoryMethod.iml" />
+        <option value="$PROJECT_DIR$/chapter5_AbstractFactory/chapter5_AbstractFactory.iml" />
+        <option value="$PROJECT_DIR$/chapter6_Builder/chapter6_Builder.iml" />
+        <option value="$PROJECT_DIR$/chapter7_prototype/chapter7_prototype.iml" />
+        <option value="$PROJECT_DIR$/chapter8_Singleton/chapter8_Singleton.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="542" />
+    <option name="width" value="1375" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8_Singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8_Singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8_Singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7_prototype/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33563218" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="chapter5_7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter6_Builder\src\chapter6_5" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter4_FactoryMethod\src\chapter4_5" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter6_5" />
+      <recent name="chapter3_5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter7_prototype\src" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter6_Builder\src\chapter6_4" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter5_AbstractFactory\src\chapter5_6" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter5_AbstractFactory\src\chapter5_5" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter5_AbstractFactory\src\chapter5_4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client (4)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_5.Client" />
+      <module name="chapter7_prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_6.Client" />
+      <module name="chapter7_prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8_7.Client" />
+      <module name="chapter8_Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8_8.Client" />
+      <module name="chapter8_Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7_4.Client" />
+      <module name="chapter7_prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d34ae5bb-6324-42bc-b1f7-0a7499290c2a" name="Default Changelist" comment="" />
+      <created>1570715025210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570715025210</updated>
+      <workItem from="1570715026554" duration="209000" />
+      <workItem from="1570715269112" duration="4113000" />
+      <workItem from="1570719515573" duration="337000" />
+      <workItem from="1570770815086" duration="11244000" />
+      <workItem from="1570791271637" duration="12523000" />
+      <workItem from="1570935885709" duration="8862000" />
+      <workItem from="1571208042239" duration="1043000" />
+      <workItem from="1571232565983" duration="5559000" />
+      <workItem from="1571270496895" duration="406000" />
+      <workItem from="1571273845622" duration="4569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48865000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.443686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32764506" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18603411" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32962137" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32962137" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/WindowsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/UnixFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/LinuxFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_6/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_AbstractFactory/src/chapter5_7/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/son.java" />
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/father.java" />
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Desktop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/NoteBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/ComputerBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/SimpleModeBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/ComputerAssembleDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/ScreenModeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/ModeBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/FullModeBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/VideoSoft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_4/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6_Builder/src/chapter6_5/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="554" column="27" selection-start-line="554" selection-start-column="19" selection-end-line="554" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_4/DataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_4/DataChart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/FAR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/SRS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/OfficialDocument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_5/PrototypeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/shallowClone/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/deelpClone/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/shallowClone/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7_prototype/src/chapter7_6/deelpClone/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicInternalFrameUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1166" column="43" selection-start-line="1166" selection-start-column="23" selection-end-line="1166" selection-end-column="43" />
+          <folding>
+            <element signature="e#42518#42519#0" expanded="true" />
+            <element signature="e#42574#42575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JInternalFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="336" column="18" selection-start-line="336" selection-start-column="18" selection-end-line="336" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="211" column="27" selection-start-line="211" selection-start-column="27" selection-end-line="211" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/JButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="131" column="36" selection-start-line="131" selection-start-column="32" selection-end-line="131" selection-end-column="36" />
+          <folding>
+            <element signature="e#2789#2790#0" expanded="true" />
+            <element signature="e#2821#2822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/BorderLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="246" column="55" selection-start-line="246" selection-start-column="46" selection-end-line="246" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_7/SubFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_7/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_7/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_8/Multiton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8_Singleton/src/chapter8_8/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ExerciseCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33563218" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

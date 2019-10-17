@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77a87b3-73f2-425d-a4b2-58c48659768b" name="Default" comment="nowcoder exer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/src/DesignPatterns/ProxyPatterns/DynamicProxy/DynamicProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Note/src/DesignPatterns/ProxyPatterns/DynamicProxy/DynamicProxyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Note/src/DesignPatterns/ProxyPatterns/DynamicProxy/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Note/src/DesignPatterns/ProxyPatterns/DynamicProxy/Handler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/DesignPatterns/ProxyPatterns/DynamicProxy/DynamicProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/DesignPatterns/ProxyPatterns/DynamicProxy/DynamicProxyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/DesignPatterns/ProxyPatterns/DynamicProxy/Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/DesignPatterns/ProxyPatterns/DynamicProxy/Handler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Note/StringRelationClassExer/StringBuilder/StringBuliderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Note/StringRelationClassExer/StringBuilder/StringBuliderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,22 +29,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/src/Exer/ExerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="698">
+            <state relative-caret-position="699">
               <caret line="88" selection-start-line="88" selection-end-line="88" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#877#878#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1761#1762#0" expanded="true" />
-                <element signature="e#1812#1813#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +180,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -210,7 +192,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Test/src/Exer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPattern/ExerciseCode" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -398,6 +380,7 @@
       <workItem from="1570609600949" duration="1275000" />
       <workItem from="1570690449862" duration="128000" />
       <workItem from="1570704418568" duration="1539000" />
+      <workItem from="1570714945607" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="nowcoder exer">
       <created>1565401267724</created>
@@ -456,13 +439,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131457000" />
+    <option name="totallyTimeSpent" value="131535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
       <window_info id="Structure" order="1" weight="0.2496902" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -952,22 +934,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/src/Exer/ExerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
+        <state relative-caret-position="699">
           <caret line="88" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#877#878#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1761#1762#0" expanded="true" />
-            <element signature="e#1812#1813#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,12 @@
+习题4、使用简单工厂模式模拟女娲（Nvwa）造人（Person），如果向人的工厂方法传入参数“M”，则返回一个男人（Man）对象，
+如果传入参数“W”，则返回一个女人（Woman）对象，绘制相应的类图并使用java语言模拟实现该场景。
+现需要增加一个新的机器人（Robot）类，如果传入参数“R”，则返回一个机器人对象，对代码进行修改并注意“女娲”类的变化。
+参考类图如下：
+其中Nvwa类充当工厂类，其中定义了工厂方法makePerson（），Person类充当抽象产品类，Man、Woman和Robot充当具体产品类。
+
+习题5、使用简单工厂模式设计一个可以创建不同几何图形（Shape）的绘图工具类，
+例如圆形（Circle）、矩形（Rectangle）和三角形（Triangle）等，每个几何图形均具有绘制draw（）和擦除erase（）两个方法，
+要求在绘制不支持的几何图形是抛出一个UnSupportShapeException异常，绘制类图并使用java语言编程模拟实现。
+参考类图如下：
+其中，Shape 接口充当抽象产品，其子类 Circle、Rectangle 和 Triangle 等充当具体产品， ShapeFactory 充当工厂类。
+
