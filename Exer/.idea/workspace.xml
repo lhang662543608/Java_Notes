@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d77a87b3-73f2-425d-a4b2-58c48659768b" name="Default" comment="nowcoder exer">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basic/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/设计模式(DesignPattern).xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/设计模式(DesignPattern).xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPattern/课后习题/8、单例模式/8、单例模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPattern/课后习题/8、单例模式/8、单例模式.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +27,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/src/Exer/ExerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
+            <state relative-caret-position="1850">
               <caret line="88" selection-start-line="88" selection-end-line="88" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Inc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/TestIncr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="8" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -76,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/JavaLangSystem.java" />
         <option value="$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/JavaUtilData.java" />
         <option value="$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/javaTextSimpleDateFormat.java" />
         <option value="$PROJECT_DIR$/Note/src/TimeRelationClassExer/BeforeJava8/javaUtilCalendar.java" />
@@ -127,6 +145,7 @@
         <option value="$PROJECT_DIR$/Test/src/nowcoder/Test02.java" />
         <option value="$PROJECT_DIR$/Test/src/Exer/Exer_Object.java" />
         <option value="$PROJECT_DIR$/Test/src/Exer/ExerTest.java" />
+        <option value="$PROJECT_DIR$/Test/src/nowcoder/TestIncr.java" />
       </list>
     </option>
   </component>
@@ -144,6 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,34 +175,18 @@
             <path>
               <item name="Exer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exer" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Note" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Exer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Exer" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Note" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exer" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Exer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Exer" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,13 +227,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.TestIncr">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exer.Client" />
       <module name="Test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIncr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.TestIncr" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,22 +265,6 @@
       <option name="PACKAGE_NAME" value="Exer" />
       <option name="MAIN_CLASS_NAME" value="Exer.ExerTest" />
       <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exer_Stream1.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exer.ExerStream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Exer.ExerStream" />
-      <option name="MAIN_CLASS_NAME" value="Exer.ExerStream.Exer_Stream1" />
-      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -315,18 +317,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
-      <item itemvalue="JUnit.Exer_Stream1.test3" />
+      <item itemvalue="Application.TestIncr" />
       <item itemvalue="JUnit.Exer_Stream2.test3" />
       <item itemvalue="JUnit.Test02.test" />
       <item itemvalue="JUnit.ExerTest.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestIncr" />
         <item itemvalue="Application.Client" />
         <item itemvalue="JUnit.ExerTest.test1" />
         <item itemvalue="JUnit.Test02.test" />
         <item itemvalue="JUnit.Exer_Stream2.test3" />
-        <item itemvalue="JUnit.Exer_Stream1.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -381,6 +383,8 @@
       <workItem from="1570690449862" duration="128000" />
       <workItem from="1570704418568" duration="1539000" />
       <workItem from="1570714945607" duration="78000" />
+      <workItem from="1571450007747" duration="204000" />
+      <workItem from="1571903029831" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="nowcoder exer">
       <created>1565401267724</created>
@@ -439,12 +443,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131535000" />
+    <option name="totallyTimeSpent" value="131758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20309168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
       <window_info id="Structure" order="1" weight="0.2496902" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -453,7 +457,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.37451234" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.37416482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5631399" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,26 +519,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="nowcoder exer" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/LocalDateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="1749" column="18" selection-start-line="1749" selection-start-column="18" selection-end-line="1749" selection-end-column="18" />
-          <folding>
-            <element signature="e#6863#6864#0" expanded="true" />
-            <element signature="e#6916#6917#0" expanded="true" />
-            <element signature="e#35992#35993#0" expanded="true" />
-            <element signature="e#36029#36030#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Locale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3314">
-          <caret line="2304" column="36" selection-start-line="2304" selection-start-column="29" selection-end-line="2304" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/format/DateTimeFormatterBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -934,11 +918,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/src/Exer/ExerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
+        <state relative-caret-position="1850">
           <caret line="88" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/Inc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/src/nowcoder/TestIncr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>

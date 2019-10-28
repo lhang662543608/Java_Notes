@@ -1,0 +1,5 @@
+<?xml version="1.0"  ?>
+<config>
+    <companyClassName>chapter10_5.Airbus</companyClassName>
+    <planeTypeClassName>chapter10_5.CargoPlane</planeTypeClassName>
+</config>
