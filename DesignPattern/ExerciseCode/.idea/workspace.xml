@@ -5,8 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../设计模式(DesignPattern).xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../设计模式(DesignPattern).xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../课后习题/8、单例模式/8、单例模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../课后习题/8、单例模式/8、单例模式.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../课后习题/15、代理模式/15、代理模式.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../课后习题/15、代理模式/15、代理模式.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +17,132 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#477#478#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/CandidateList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#183#191#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/AwardCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/ScientificAwardCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="88" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/ExcellenceAwardCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="85" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Visitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,57 +162,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter12_Decorator/src/chapter12_6/SimpleCipher.java" />
-        <option value="$PROJECT_DIR$/chapter12_Decorator/src/chapter12_6/Client.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/AbstractFacade.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/FileOperation.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/DataAnalysis.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/ReportDisplay.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/XMLFacade.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/XMLDataConvertor.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/ExtendedFacade.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/Client.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/Memory.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/CPU.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/HardDisk.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/OS.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/Mainframe.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/Client.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/ContactManager.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/MessageManager.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/FileManager.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/Client.java" />
-        <option value="$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/OneKeyBackup.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Client.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Port.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/NetworkDevice.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Switch.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Hub.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/DeviceFactory.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/SharedStringFactory.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/Color.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/Size.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/SharedString.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/Client.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/MultimediaFile.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Animation.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Video.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/MultimediaFileFactory.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Size.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Location.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Image.java" />
-        <option value="$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Client.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/AbstractSubject.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/LoggerProxy.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/Client.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/BusinessClass.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_7/PictureHandler.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_7/Client.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_7/PictureProxy.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/AbstractPermission.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/RealPermission.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/Client.java" />
-        <option value="$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/PermissionProxy.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_5/CaesarCipher.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_5/ModCipher.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_5/Client.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/Client.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/Sort.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/ArrayHandler.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/FlyBehavior.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/TakeOffBehavior.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/SubSonicFly.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/SuperSonicFly.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/VerticalTakeOff.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/LongDistanceTakeOff.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Helicopter.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/AirCraft.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/AirPlane.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Fighter.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Harrier.java" />
+        <option value="$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Client.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/BankTemplateMethod.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Deposit.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Withdraw.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Transfer.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/config.xml" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/XMLUtil.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Client.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/DisplayMode.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/FullMode.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/SimpleMode.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/CustomerInfoSearcher.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/SearchById.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/SearchByName.java" />
+        <option value="$PROJECT_DIR$/chapter25_Template/src/chapter25_5/Client.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Product.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Visitor.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Apple.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Book.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/BuyBasket.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Customer.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Saler.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Client.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Person.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/AwardCheck.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/ExcellenceAwardCheck.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/ScientificAwardCheck.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Teacher.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Student.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/CandidateList.java" />
+        <option value="$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Client.java" />
       </list>
     </option>
   </component>
@@ -106,9 +230,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="213" />
-    <option name="y" value="40" />
-    <option name="width" value="659" />
+    <option name="x" value="484" />
+    <option name="y" value="118" />
+    <option name="width" value="899" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -119,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -127,11 +252,21 @@
               <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter26_Visitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExerciseCode" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter26_Visitor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,39 +275,44 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter15_Proxy/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter25_Template/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33563218" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter25_Template\src" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter24_Strategy\src" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter23_State\src" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter22_Observer\src" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter20_Mediator\src" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="chapter5_7" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="chapter14_4" />
-      <recent name="chapter10_5" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter15_Proxy\src\chapter15_6" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter15_Proxy\src\chapter15_7" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter15_Proxy\src\chapter15_5" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter14_Flyweight\src\chapter14_6" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter14_Flyweight\src\chapter14_5" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter26_Visitor\src\chapter26_5" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter26_Visitor\src\chapter26_4" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter25_Template\src\chapter25_5" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter25_Template\src\chapter25_4" />
+      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter24_Strategy\src\chapter24_7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter19_6" />
       <recent name="chapter9_8.ObjectAdapter" />
       <recent name="chapter6_5" />
       <recent name="chapter3_5" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter15_Proxy\src" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter14_Flyweight\src" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter13_Facade\src" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter11_Composite\src" />
-      <recent name="F:\myLearningRoad\java_road\DesignPattern\ExerciseCode\chapter10_Bridge\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter26_5" />
+      <recent name="chapter26_4" />
+      <recent name="chapter23_6" />
+      <recent name="chapter20_4" />
+      <recent name="chapter17_3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,13 +327,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_5.Client" />
-      <module name="chapter15_Proxy" />
+      <option name="MAIN_CLASS_NAME" value="chapter25_5.Client" />
+      <module name="chapter25_Template" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15_5.*" />
+          <option name="PATTERN" value="chapter25_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +342,11 @@
       </method>
     </configuration>
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_7.Client" />
-      <module name="chapter15_Proxy" />
+      <option name="MAIN_CLASS_NAME" value="chapter26_5.Client" />
+      <module name="chapter26_Visitor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15_7.*" />
+          <option name="PATTERN" value="chapter26_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +354,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter15_6.Client" />
-      <module name="chapter15_Proxy" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter24_7.Client" />
+      <module name="chapter24_Strategy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter15_6.*" />
+          <option name="PATTERN" value="chapter24_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +368,11 @@
       </method>
     </configuration>
     <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14_5.Client" />
-      <module name="chapter14_Flyweight" />
+      <option name="MAIN_CLASS_NAME" value="chapter26_4.Client" />
+      <module name="chapter26_Visitor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14_5.*" />
+          <option name="PATTERN" value="chapter26_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,11 +381,11 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter14_6.Client" />
-      <module name="chapter14_Flyweight" />
+      <option name="MAIN_CLASS_NAME" value="chapter25_4.Client" />
+      <module name="chapter25_Template" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter14_6.*" />
+          <option name="PATTERN" value="chapter25_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +395,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (5)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -292,16 +432,29 @@
       <workItem from="1572224861571" duration="1317000" />
       <workItem from="1572226237383" duration="5190000" />
       <workItem from="1572243524743" duration="5486000" />
+      <workItem from="1573543663225" duration="10089000" />
+      <workItem from="1573623210337" duration="1179000" />
+      <workItem from="1573624445602" duration="4873000" />
+      <workItem from="1573783590533" duration="3638000" />
+      <workItem from="1573968334978" duration="1512000" />
+      <workItem from="1573975561101" duration="2000" />
+      <workItem from="1573979053056" duration="4209000" />
+      <workItem from="1574055137990" duration="7591000" />
+      <workItem from="1574080814994" duration="6629000" />
+      <workItem from="1574121631011" duration="160000" />
+      <workItem from="1574124465080" duration="8186000" />
+      <workItem from="1574136671338" duration="6046000" />
+      <workItem from="1574212331800" duration="9540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104781000" />
+    <option name="totallyTimeSpent" value="168435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,7 +463,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43003413" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3997773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41870824" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -336,598 +489,506 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/DataAnalysis.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_5/CaesarCipher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/FileOperation.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_5/ModCipher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="14" />
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/ReportDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/XMLFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/XMLDataConvertor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/AbstractFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/ExtendedFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/chapter13_4">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>chapter13_4</OriginalElement>
-          <nodes>
-            <node x="0.0" y="0.0">chapter13_4.XMLDataConvertor</node>
-            <node x="648.75" y="135.0">chapter13_4.XMLFacade</node>
-            <node x="796.0" y="0.0">chapter13_4.AbstractFacade</node>
-            <node x="601.3175925925925" y="240.0">chapter13_4.Client</node>
-            <node x="224.0" y="0.0">chapter13_4.FileOperation</node>
-            <node x="418.0" y="0.0">chapter13_4.DataAnalysis</node>
-            <node x="366.9999999999999" y="135.0">chapter13_4.ExtendedFacade</node>
-            <node x="602.0" y="0.0">chapter13_4.ReportDisplay</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="chapter13_4.ExtendedFacade" target="chapter13_4.XMLDataConvertor">
-              <point x="-73.59999999999997" y="-27.5" />
-              <point x="385.4" y="115.0" />
-              <point x="102.0" y="115.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.XMLFacade" target="chapter13_4.FileOperation">
-              <point x="-50.25" y="-27.5" />
-              <point x="665.5" y="85.0" />
-              <point x="354.50000000000006" y="85.0" />
-              <point x="43.50000000000006" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.Client" target="chapter13_4.AbstractFacade">
-              <point x="37.25" y="-27.5" />
-              <point x="713.0675925925925" y="215.0" />
-              <point x="897.8824074074074" y="215.0" />
-              <point x="897.8824074074074" y="115.0" />
-              <point x="949.3333333333334" y="115.0" />
-              <point x="61.33333333333337" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.XMLFacade" target="chapter13_4.DataAnalysis">
-              <point x="-16.75" y="-27.5" />
-              <point x="699.0" y="75.0" />
-              <point x="541.0" y="75.0" />
-              <point x="41.0" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.XMLFacade" target="chapter13_4.ReportDisplay">
-              <point x="16.75" y="-27.5" />
-              <point x="43.5" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.Client" target="chapter13_4.ExtendedFacade">
-              <point x="-37.25" y="-27.5" />
-              <point x="638.5675925925925" y="215.0" />
-              <point x="458.9999999999999" y="215.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.XMLFacade" target="chapter13_4.AbstractFacade">
-              <point x="50.25" y="-27.5" />
-              <point x="766.0" y="115.0" />
-              <point x="888.0" y="115.0" />
-              <point x="0.0" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.ExtendedFacade" target="chapter13_4.ReportDisplay">
-              <point x="36.80000000000007" y="-27.5" />
-              <point x="495.79999999999995" y="95.0" />
-              <point x="645.5" y="95.0" />
-              <point x="-43.5" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.ExtendedFacade" target="chapter13_4.DataAnalysis">
-              <point x="5.6843418860808015E-14" y="-27.5" />
-              <point x="-41.0" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.ExtendedFacade" target="chapter13_4.AbstractFacade">
-              <point x="73.60000000000008" y="-27.5" />
-              <point x="532.6" y="105.0" />
-              <point x="826.6666666666666" y="105.0" />
-              <point x="-61.33333333333337" y="27.5" />
-            </edge>
-            <edge source="chapter13_4.ExtendedFacade" target="chapter13_4.FileOperation">
-              <point x="-36.799999999999955" y="-27.5" />
-              <point x="422.19999999999993" y="105.0" />
-              <point x="267.5" y="105.0" />
-              <point x="-43.5" y="27.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="-24.0" y="78.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_4/chapter13_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/Memory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/CPU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/HardDisk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/OS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/Mainframe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_5/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/ContactManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/MessageManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/FileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter13_Facade/src/chapter13_6/OneKeyBackup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Port.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/NetworkDevice.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="17" />
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Switch.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
+        <state relative-caret-position="175">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="26" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Hub.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_6/ArrayHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_4/DeviceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="5" selection-start-line="17" selection-start-column="55" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/SharedStringFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="44" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/Size.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/SharedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Animation.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/TakeOffBehavior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="82" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="5" selection-start-line="8" selection-start-column="19" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/MultimediaFileFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#745#746#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/MultimediaFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Size.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_5/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Image.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/SuperSonicFly.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter14_Flyweight/src/chapter14_6/Client.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/VerticalTakeOff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/AbstractSubject.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/LongDistanceTakeOff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="225">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/BusinessClass.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/SubSonicFly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Helicopter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/AirCraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_5/LoggerProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_7/PictureHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_7/Client.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/AirPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="225">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_7/PictureProxy.java">
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Fighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Harrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter24_Strategy/src/chapter24_7/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/BankTemplateMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Withdraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/XMLUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_4/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/DisplayMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/FullMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/SimpleMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/CustomerInfoSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/SearchById.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/SearchByName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter25_Template/src/chapter25_5/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/chapter26_4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/BuyBasket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#189#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Saler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_4/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/ExcellenceAwardCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="85" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/ScientificAwardCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="88" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="13" />
           <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/AbstractPermission.java">
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/RealPermission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="250">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="29" />
           <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/PermissionProxy.java">
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/CandidateList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="375">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
-            <element signature="e#943#944#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#183#191#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter15_Proxy/src/chapter15_6/Client.java">
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/AwardCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="175">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter26_Visitor/src/chapter26_5/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="40" />
         </state>
       </provider>
     </entry>
