@@ -1,0 +1,10 @@
+package sylu.spring.beans.annotation.repository;
+
+public class UserRepositoryImpl implements UserRepository {
+
+	@Override
+	public void save() {
+
+	}
+
+}

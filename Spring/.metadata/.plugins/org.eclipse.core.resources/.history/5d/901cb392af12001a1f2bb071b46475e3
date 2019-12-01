@@ -1,0 +1,9 @@
+package sylu.spring.beans;
+
+public class Car {
+	private String brand;
+	private String corp;
+	private int price;
+	private int maxSpeed;
+
+}

@@ -1,0 +1,5 @@
+package sylu.spring.beans.factory;
+
+public class StaticCarFactory {
+
+}

@@ -1,0 +1,11 @@
+package sylu.spring.beans;
+
+public class Main {
+	public static void main(String[] args) {
+		//创建一个HelloWorld对象
+//		HelloWorld helloWorld = new HelloWorld();
+		//为name属性赋值
+//		helloWorld.setName("沈阳理工大学");
+		helloWorld.hello();
+	}
+}

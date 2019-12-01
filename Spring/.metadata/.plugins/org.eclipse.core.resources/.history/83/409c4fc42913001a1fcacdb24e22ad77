@@ -1,0 +1,5 @@
+package sylu.spring.beans.autowire;
+
+public class Person {
+
+}

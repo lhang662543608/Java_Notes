@@ -1,0 +1,24 @@
+package sylu.spring.beans.autowire;
+
+/**
+ * @Description
+ * @author lhang
+ * @date 2019年11月29日下午9:25:30
+ * 
+ */
+public class HelloWorld {
+	private String name;
+
+	public void setName(String name) {
+		System.out.println("setName: " + name);
+		this.name = name;
+	}
+
+	public HelloWorld() {
+		System.out.println("Helloworld  constructor....");
+	}
+
+	public void hello() {
+		System.out.println("hello： " + name);
+	}
+}

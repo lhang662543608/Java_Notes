@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="address" class="sylu.spring.beans.autowire.Address"
+		p:city="Shenyang" p:street="GuGong"></bean>
+
+	<!-- bean配置的继承：使用bean的parent属性指定继承那个bean的配置 -->
+	<bean id="address2" p:street="SanHao" parent="address"></bean>
+</beans>

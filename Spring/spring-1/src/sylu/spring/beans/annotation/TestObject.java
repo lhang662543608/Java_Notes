@@ -1,0 +1,8 @@
+package sylu.spring.beans.annotation;
+
+import org.springframework.stereotype.Controller;
+
+//@Controller
+public class TestObject {
+
+}

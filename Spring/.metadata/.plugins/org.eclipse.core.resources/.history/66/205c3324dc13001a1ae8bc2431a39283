@@ -1,0 +1,5 @@
+package sylu.spring.beans.annotation.controller;
+
+public class UserController {
+
+}

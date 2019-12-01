@@ -1,0 +1,5 @@
+package sylu.spring.beans.annotation.service;
+
+public class UserService {
+
+}

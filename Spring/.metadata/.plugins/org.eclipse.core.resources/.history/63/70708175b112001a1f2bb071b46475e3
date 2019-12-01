@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- 配置bean -->
+	<!-- class：bean 的全类名，通过反射方式在IOC容器中创建bean。所以要求bean中必须有无参的构造器。 -->
+	<!--id：标识容器中的bean，id唯一。 -->
+	<bean id="helloWorld" class="sylu.spring.beans.HelloWorld">
+		<property name="name" value="Spring"></property>
+	</bean>
+
+
+	<!-- 通过构造方法来配置bean的属性 -->
+	<bean id="car" class="sylu.spring.beans.Car">
+		<constructor-arg value="Audi" index="0"></constructor-arg>
+		<constructor-arg value="Shanghai" index="1"></constructor-arg>
+		<constructor-arg value="300000" index="2"></constructor-arg>
+	</bean>
+	<!-- 使用构造器注入属性值可以指定参数的位置和参数的类型。以区分重载构造器 -->
+	<bean id="car2" class="sylu.spring.beans.Car">
+		<constructor-arg value="Baoma" name="brand"></constructor-arg>
+		<constructor-arg value="Shanghai" name="corp"></constructor-arg>
+		<constructor-arg type="int">
+			<value>250</value>
+		</constructor-arg>
+	</bean>
+</beans>
