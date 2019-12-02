@@ -1,0 +1,5 @@
+package sylu.spring.aop.impl;
+
+public class VlidationAspect {
+
+}

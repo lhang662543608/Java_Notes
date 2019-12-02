@@ -1,0 +1,8 @@
+package sylu.spring.aop.impl;
+
+//把这个类声明为一个切面
+public class LoggingAspect {
+	public void beforeMethod() {
+		System.out.println("");
+	}
+}

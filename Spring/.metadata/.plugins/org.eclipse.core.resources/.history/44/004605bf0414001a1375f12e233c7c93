@@ -1,0 +1,16 @@
+package sylu.spring.aop.helloworld;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// MathematicsCalculator mCalculator = new MathematicsCalculatorImpl();
+
+		MathematicsCalculator target = new MathematicsCalculatorImpl();
+
+		int result = target.add(1, 2);
+		System.out.println("-->" + result);
+		result = target.sub(3, 1);
+		System.out.println("-->" + result);
+	}
+
+}

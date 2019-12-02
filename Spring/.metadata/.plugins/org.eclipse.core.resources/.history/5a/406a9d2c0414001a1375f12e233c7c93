@@ -1,0 +1,13 @@
+package MathematicsCalculator;
+
+import sylu.spring.aop.helloworld.MathematicsCalculator;
+
+public class MathematicCalculatorLoggingProxy {
+	// 要代理的对象
+	private MathematicsCalculator taget;
+
+	public MathematicsCalculator getLoggingProxy() {
+		MathematicsCalculator proxy = null;
+		return null;
+	}
+}

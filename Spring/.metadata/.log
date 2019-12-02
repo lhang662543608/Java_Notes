@@ -2451,3 +2451,524 @@ org.eclipse.recommenders.utils.Logs$LogTraceException
 
 !ENTRY org.eclipse.jdt.core 4 969 2019-12-01 10:39:21.733
 !MESSAGE a() [in BaseService [in [Working copy] BaseService.java [in sylu.spring.beans.generic.di [in src [in spring-1]]]]] does not exist
+!SESSION 2019-12-01 14:00:17.510 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-01 14:00:44.920
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\lhang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2019-12-01 14:00:53.345
+!MESSAGE Server ‘com.genuitec.eclipse.aeri.server1’ failed with exception: 杩欐槸鍦ㄤ富鏈哄悕瑙ｆ瀽鏃堕�氬父鍑虹幇鐨勬殏鏃堕敊璇紝瀹冩剰鍛崇潃鏈湴鏈嶅姟鍣ㄦ病鏈変粠鏉冨▉鏈嶅姟鍣ㄤ笂鏀跺埌鍝嶅簲銆� (aer.ctrlflow.com). ; version: 2.0.4.v20170307-1435
+!STACK 0
+java.net.UnknownHostException: 杩欐槸鍦ㄤ富鏈哄悕瑙ｆ瀽鏃堕�氬父鍑虹幇鐨勬殏鏃堕敊璇紝瀹冩剰鍛崇潃鏈湴鏈嶅姟鍣ㄦ病鏈変粠鏉冨▉鏈嶅姟鍣ㄤ笂鏀跺埌鍝嶅簲銆� (aer.ctrlflow.com)
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:102)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2019-12-01 14:00:56.770
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: Connect to www.eclipse.org:443 [www.eclipse.org/198.41.30.198] failed: connect timed out. ; version: 2.0.4.v20170307-1435
+!STACK 0
+org.apache.http.conn.ConnectTimeoutException: Connect to www.eclipse.org:443 [www.eclipse.org/198.41.30.198] failed: connect timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:244)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
+	... 16 more
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-01 14:10:08.835
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-01 14:10:08.837
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-01 14:10:28.792
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-01 14:10:28.794
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-12-01 14:12:21.037
+!MESSAGE Failed to download org.eclipse.recommenders:index::zip:0.0.0
+!STACK 0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294)
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193)
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172)
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:165)
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355)
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	... 8 more
+
+!ENTRY org.eclipse.recommenders.models.rcp 1 0 2019-12-01 14:12:22.462
+!MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+!SESSION 2019-12-02 07:22:09.898 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-12-02 07:22:39.702
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\lhang'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2019-12-02 07:22:44.355
+!MESSAGE Server ‘com.genuitec.eclipse.aeri.server1’ failed with exception: 杩欐槸鍦ㄤ富鏈哄悕瑙ｆ瀽鏃堕�氬父鍑虹幇鐨勬殏鏃堕敊璇紝瀹冩剰鍛崇潃鏈湴鏈嶅姟鍣ㄦ病鏈変粠鏉冨▉鏈嶅姟鍣ㄤ笂鏀跺埌鍝嶅簲銆� (aer.ctrlflow.com). ; version: 2.0.4.v20170307-1435
+!STACK 0
+java.net.UnknownHostException: 杩欐槸鍦ㄤ富鏈哄悕瑙ｆ瀽鏃堕�氬父鍑虹幇鐨勬殏鏃堕敊璇紝瀹冩剰鍛崇潃鏈湴鏈嶅姟鍣ㄦ病鏈変粠鏉冨▉鏈嶅姟鍣ㄤ笂鏀跺埌鍝嶅簲銆� (aer.ctrlflow.com)
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:102)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2019-12-02 07:22:46.125
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1. ; version: 2.0.4.v20170307-1435
+!STACK 0
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:176)
+	at com.google.gson.Gson.fromJson(Gson.java:803)
+	at com.google.gson.Gson.fromJson(Gson.java:768)
+	at com.google.gson.Gson.fromJson(Gson.java:717)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.json.Json.deserialize(Json.java:93)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:70)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
+	... 9 more
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-02 07:28:01.780
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-02 07:28:03.488
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-02 07:28:48.743
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-02 07:28:49.028
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-02 07:29:02.843
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-12-02 07:29:02.846
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2019-12-02 07:29:50.818
+!MESSAGE Failed to download org.eclipse.recommenders:index::zip:0.0.0
+!STACK 0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:444)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:246)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:223)
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:294)
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193)
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172)
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:165)
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/neon/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:39)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:355)
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:67)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:581)
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:249)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:520)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421)
+	... 8 more
+
+!ENTRY org.eclipse.recommenders.models.rcp 1 0 2019-12-02 07:29:50.821
+!MESSAGE org.eclipse.recommenders:index::zip:0.0.0 could not be resolved from the model repositories. Are you offline?
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:30.930
+!MESSAGE name() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:32.134
+!MESSAGE b() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:32.401
+!MESSAGE bef() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:32.613
+!MESSAGE befo() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:32.730
+!MESSAGE befor() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:34.074
+!MESSAGE before() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:34.329
+!MESSAGE beforeMe() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:34.448
+!MESSAGE beforeMet() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:34.620
+!MESSAGE beforeMeth() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:35:34.866
+!MESSAGE beforeMetho() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:44:08.321
+!MESSAGE beforeMethod() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:44:38.549
+!MESSAGE beforeMethod() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 07:45:34.440
+!MESSAGE beforeMethod(J) [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:06:58.691
+!MESSAGE name() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:07:00.478
+!MESSAGE a() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:07:01.723
+!MESSAGE after() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:07:01.987
+!MESSAGE afterMe() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:07:02.162
+!MESSAGE afterMet() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:07:02.340
+!MESSAGE afterMeth() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:07:02.483
+!MESSAGE afterMetho() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:46.155
+!MESSAGE name() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:50.627
+!MESSAGE a() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:50.842
+!MESSAGE aft() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:50.954
+!MESSAGE afte() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:52.555
+!MESSAGE after() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:52.980
+!MESSAGE afterRu() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:53.147
+!MESSAGE afterRut() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:53.469
+!MESSAGE afterRutu() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:54.165
+!MESSAGE afterRutur() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:54.365
+!MESSAGE afterRuturn() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:54.540
+!MESSAGE afterRuturni() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:54.723
+!MESSAGE afterRuturnin() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:20:59.928
+!MESSAGE afterRuturning() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:21:11.852
+!MESSAGE afterReturning() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:25:53.864
+!MESSAGE afterReturning(JoinPoint) [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:18.380
+!MESSAGE A() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:19.996
+!MESSAGE a() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:20.060
+!MESSAGE aft() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:21.091
+!MESSAGE aftr() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:21.206
+!MESSAGE afte() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:22.468
+!MESSAGE after() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:22.701
+!MESSAGE afterTh() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:23.011
+!MESSAGE afterThr() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:23.270
+!MESSAGE afterThro() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:23.717
+!MESSAGE afterThrow() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:23.900
+!MESSAGE afterThrowi() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:30:24.110
+!MESSAGE afterThrowin() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:31:31.501
+!MESSAGE afterThrowing() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:31:42.891
+!MESSAGE afterThrowing() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:07.808
+!MESSAGE name() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:09.586
+!MESSAGE a() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:11.135
+!MESSAGE around() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:11.416
+!MESSAGE aroundMe() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:11.526
+!MESSAGE aroundMet() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:11.688
+!MESSAGE aroundMeth() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:41:11.790
+!MESSAGE aroundMetho() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 08:44:09.587
+!MESSAGE aroundMethod() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:24.289
+!MESSAGE name() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:24.577
+!MESSAGE v() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:32.769
+!MESSAGE va() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:32.978
+!MESSAGE val() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:33.216
+!MESSAGE vali() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:34.313
+!MESSAGE valif() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:34.440
+!MESSAGE valid() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:35.168
+!MESSAGE valida() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:35.280
+!MESSAGE validat() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:38.048
+!MESSAGE validateA() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:38.384
+!MESSAGE validateAr() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:38.496
+!MESSAGE validateArg() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:04:55.161
+!MESSAGE validateArgs() [in VlidationAspect [in [Working copy] VlidationAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:44.113
+!MESSAGE d() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:47.003
+!MESSAGE de() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:47.025
+!MESSAGE dec() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:48.808
+!MESSAGE dec() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:48.928
+!MESSAGE decl() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:49.274
+!MESSAGE decla() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:49.320
+!MESSAGE declar() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:51.609
+!MESSAGE declare() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:51.827
+!MESSAGE declareJo() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:12:51.929
+!MESSAGE declareJoi() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:04.919
+!MESSAGE declareJoin() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:07.682
+!MESSAGE declareJoinPoint() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:07.825
+!MESSAGE declareJoinPointe() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:08.225
+!MESSAGE declareJoinPointex() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:08.463
+!MESSAGE declareJoinPointexp() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:08.585
+!MESSAGE declareJoinPointexpr() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:08.948
+!MESSAGE declareJoinPointexpre() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:09.113
+!MESSAGE declareJoinPointexpres() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:09.336
+!MESSAGE declareJoinPointexpress() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:09.504
+!MESSAGE declareJoinPointexpressi() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2019-12-02 09:13:09.665
+!MESSAGE declareJoinPointexpressio() [in LoggingAspect [in [Working copy] LoggingAspect.java [in sylu.spring.aop.impl [in src [in spring-2]]]]] does not exist
+
+!ENTRY org.springframework.ide.eclipse.aop.core 4 0 2019-12-02 09:44:08.662
+!MESSAGE Internal Error
+!STACK 0
+java.lang.IllegalStateException: Throwing argument name 'e' was not bound in advice arguments
+	at org.springframework.ide.eclipse.springframework.aop.aspectj.AbstractAspectJAdvice.bindExplicitArguments(AbstractAspectJAdvice.java:485)
+	at org.springframework.ide.eclipse.springframework.aop.aspectj.AbstractAspectJAdvice.bindArgumentsByName(AbstractAspectJAdvice.java:424)
+	at org.springframework.ide.eclipse.springframework.aop.aspectj.AbstractAspectJAdvice.calculateArgumentBindings(AbstractAspectJAdvice.java:375)
+	at org.springframework.ide.eclipse.springframework.aop.aspectj.AbstractAspectJAdvice.getPointcut(AbstractAspectJAdvice.java:176)
+	at sun.reflect.GeneratedMethodAccessor82.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.util.ReflectionUtils.invokeMethod(ReflectionUtils.java:216)
+	at org.springframework.ide.eclipse.core.java.ClassUtils.invokeMethod(ClassUtils.java:137)
+	at org.springframework.ide.eclipse.core.java.ClassUtils.invokeMethod(ClassUtils.java:101)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AspectDefinitionMatcher.createAspectJPointcutExpression(AspectDefinitionMatcher.java:214)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AspectDefinitionMatcher.internalMatches(AspectDefinitionMatcher.java:262)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AspectDefinitionMatcher.matches(AspectDefinitionMatcher.java:92)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob$1.doWithActiveProjectClassLoader(AopReferenceModelBuilderJob.java:262)
+	at org.springframework.ide.eclipse.core.java.JdtUtils$DefaultProjectClassLoaderSupport.executeCallback(JdtUtils.java:984)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob.buildAopReferencesForBean(AopReferenceModelBuilderJob.java:208)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob.buildAopReferencesForBeans(AopReferenceModelBuilderJob.java:290)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob.buildAopReferencesForBeansConfig(AopReferenceModelBuilderJob.java:313)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob.buildAopReferencesForFile(AopReferenceModelBuilderJob.java:367)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob.buildAopModel(AopReferenceModelBuilderJob.java:464)
+	at org.springframework.ide.eclipse.aop.core.internal.model.builder.AopReferenceModelBuilderJob.run(AopReferenceModelBuilderJob.java:160)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)

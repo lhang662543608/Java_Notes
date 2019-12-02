@@ -1,0 +1,17 @@
+package sylu.spring.aop.proxyImpl;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// MathematicsCalculator mCalculator = new MathematicsCalculatorImpl();
+
+		MathematicsCalculator target = new MathematicsCalculatorImpl();
+		MathematicsCalculator proxy = new MathematicCalculatorLoggingProxy(target).getLoggingProxy();
+
+		int result = proxy.add(1, 2);
+		System.out.println("-->" + result);
+		result = proxy.sub(3, 1);
+		System.out.println("-->" + result);
+	}
+
+}
