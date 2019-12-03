@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.junit.launchconfig">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/spring4/src/sylu/spring/transaction/annotation/TransactionTest.java"/>
+<listEntry value="/spring-4/src/sylu/spring/transaction/annotation/TransactionTest.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
@@ -11,6 +11,6 @@
 <stringAttribute key="org.eclipse.jdt.junit.TESTNAME" value="testUpdateUserAccount"/>
 <stringAttribute key="org.eclipse.jdt.junit.TEST_KIND" value="org.eclipse.jdt.junit.loader.junit4"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sylu.spring.transaction.annotation.TransactionTest"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="spring4"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="spring-4"/>
 <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ea"/>
 </launchConfiguration>
