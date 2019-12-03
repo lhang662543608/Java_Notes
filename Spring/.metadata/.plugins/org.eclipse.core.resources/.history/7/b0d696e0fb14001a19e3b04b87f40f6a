@@ -1,0 +1,5 @@
+package sylu.spring.jdbc;
+
+public class JDBCTest {
+
+}

@@ -1,0 +1,6 @@
+package sylu.spring.jdbc;
+
+public class Department {
+	private Integer id;
+	private String name;
+}

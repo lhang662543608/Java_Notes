@@ -9,7 +9,7 @@
 		<item value="350" key="dialogWidth"/>
 		<list key="textEntries">
 			<item value="1"/>
-			<item value="1"/>
+			<item value="2"/>
 			<item value="1"/>
 			<item value="1"/>
 		</list>
@@ -28,6 +28,7 @@
 		<list key="textArray">
 			<item value="console"/>
 			<item value="outline"/>
+			<item value=" outline"/>
 			<item value="navigator"/>
 			<item value="package explorer"/>
 		</list>
