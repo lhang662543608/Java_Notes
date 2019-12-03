@@ -1,0 +1,5 @@
+package sylu.spring.hibernate.service.impl;
+
+public class CashierImpl  {
+
+}

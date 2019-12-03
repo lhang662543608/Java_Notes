@@ -1,0 +1,14 @@
+package sylu.spring.hibernate.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SpringHibernateTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -34,6 +34,10 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.hibernate.eclipse.console.wizards.NewConfigurationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="hibernatewizards"/>
+		</list>
 	</section>
 	<section name="InstallationDialogSettings">
 		<item value="706" key="DIALOG_WIDTH"/>

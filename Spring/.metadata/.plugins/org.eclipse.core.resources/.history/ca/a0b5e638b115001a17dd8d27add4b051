@@ -1,0 +1,5 @@
+package sylu.spring.hibernate.entities;
+
+public class Book {
+
+}

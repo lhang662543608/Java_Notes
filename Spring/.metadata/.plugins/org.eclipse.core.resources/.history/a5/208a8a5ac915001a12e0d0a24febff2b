@@ -1,0 +1,37 @@
+package sylu.spring.hibernate.dao.impl;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import sylu.spring.hibernate.dao.BookShopDao;
+
+@Repository
+public class BookShopDaoImpl implements BookShopDao {
+	@Autowired
+	private SessionFactory sessionFactory;
+
+	private Session getSession() {
+		return sessionFactory.getCurrentSession();
+	}
+
+	@Override
+	public int findBookPriceByIsbn(Integer isbn) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void updateBookStock(Integer isbn) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateUserAccount(String username, Integer price) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

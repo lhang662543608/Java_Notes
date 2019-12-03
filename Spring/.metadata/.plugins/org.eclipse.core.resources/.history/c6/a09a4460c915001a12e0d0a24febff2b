@@ -1,0 +1,44 @@
+package sylu.spring.hibernate.dao.impl;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.orm.hibernate3.HibernateTemplate;
+import org.springframework.orm.hibernate3.support.HibernateDaoSupport;
+import org.springframework.stereotype.Repository;
+
+import sylu.spring.hibernate.dao.BookShopDao;
+
+@Repository
+public class BookShopDaoImpl implements BookShopDao {
+	@Autowired
+	private SessionFactory sessionFactory;
+
+	// 不推荐使用HibernateTemplate和HibernateDaoSupport
+	// 因为这样会导致Dao和spring的API进行耦合，可移植性变差。
+	private HibernateTemplate hibernateTemplate;
+
+	// 获取和当前线程绑定的session
+	private Session getSession() {
+		return sessionFactory.getCurrentSession();
+	}
+
+	@Override
+	public int findBookPriceByIsbn(Integer isbn) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void updateBookStock(Integer isbn) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateUserAccount(String username, Integer price) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
