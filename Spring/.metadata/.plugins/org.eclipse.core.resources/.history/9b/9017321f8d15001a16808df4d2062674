@@ -1,0 +1,5 @@
+package sylu.spring.transaction;
+
+public interface Cashier {
+
+}

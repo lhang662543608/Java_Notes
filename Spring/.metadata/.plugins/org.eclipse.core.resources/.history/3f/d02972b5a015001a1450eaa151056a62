@@ -1,0 +1,24 @@
+package sylu.spring.transaction.xml;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+
+public class CashierImpl implements Cashier {
+
+	private BookShopService bookShopService;
+
+	public void setBookShopService(BookShopService bookShopService) {
+		this.bookShopService = bookShopService;
+	}
+
+	public void checkout(String username, List<Integer> isbns) {
+		for (Integer isbn : isbns) {
+			bookShopService.purchase(username, isbn);
+		}
+	}
+
+}

@@ -1,0 +1,24 @@
+package sylu.spring.transaction;
+
+public class BookShopDaoImpl implements BookShopDao {
+	
+	
+	@Override
+	public int findBookPriceByIsbn(Integer isbn) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void updateBookStock(Integer isbn) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateUserAccount(String username, Integer price) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

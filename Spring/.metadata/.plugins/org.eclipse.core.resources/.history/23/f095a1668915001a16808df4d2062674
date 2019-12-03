@@ -1,0 +1,15 @@
+package sylu.spring.transaction;
+
+public class BookShopServiceIMpl implements BookShopService {
+
+	public BookShopServiceIMpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void purchase(String username, Integer isbn) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

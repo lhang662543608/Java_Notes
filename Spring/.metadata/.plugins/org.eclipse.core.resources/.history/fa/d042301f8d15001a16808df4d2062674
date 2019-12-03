@@ -1,0 +1,13 @@
+package sylu.spring.transaction;
+
+import java.util.List;
+
+public class CashierImpl implements Cashier {
+
+	@Override
+	public void checkout(String username, List<Integer> isbns) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

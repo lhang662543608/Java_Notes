@@ -1,0 +1,32 @@
+package sylu.spring.transaction;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Repository;
+
+@Repository("bookShopDao")
+public class BookShopDaoImpl implements BookShopDao {
+
+	@Autowired
+	private JdbcTemplate jdbcTemplate;
+
+	@Override
+	public int findBookPriceByIsbn(Integer isbn) {
+		String sql = "select price from book where isbn = ?";
+		int price = jdbcTemplate.queryForObject(sql, Integer.class, isbn);
+		return price;
+	}
+
+	@Override
+	public void updateBookStock(Integer isbn) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateUserAccount(String username, Integer price) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
