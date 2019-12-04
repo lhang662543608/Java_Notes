@@ -1,0 +1,7 @@
+<classpath>
+  <container id="spring-6!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="F:/myLearningRoad/java_road/Spring/spring-6/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar">
+      <source-attachment-path>/spring-6/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
