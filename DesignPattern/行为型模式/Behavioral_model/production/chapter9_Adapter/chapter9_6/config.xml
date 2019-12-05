@@ -1,0 +1,5 @@
+<?xml version="1.0"  ?>
+<config>
+    <concreteCatClass>chapter9_6.ConcreteCat</concreteCatClass>
+    <concreteDogClass>chapter9_6.ConcreteDog</concreteDogClass>
+</config>

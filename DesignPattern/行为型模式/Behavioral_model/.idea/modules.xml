@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Behavioral_model.iml" filepath="$PROJECT_DIR$/.idea/Behavioral_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16_ChainOfResponsibility/chapter16_ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/chapter16_ChainOfResponsibility/chapter16_ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17_Command/chapter17_Command.iml" filepath="$PROJECT_DIR$/chapter17_Command/chapter17_Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18_Interpreter/chapter18_Interpreter.iml" filepath="$PROJECT_DIR$/chapter18_Interpreter/chapter18_Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19_Iterator/chapter19_Iterator.iml" filepath="$PROJECT_DIR$/chapter19_Iterator/chapter19_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20_Mediator/chapter20_Mediator.iml" filepath="$PROJECT_DIR$/chapter20_Mediator/chapter20_Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21_Memento/chapter21_Memento.iml" filepath="$PROJECT_DIR$/chapter21_Memento/chapter21_Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter22_Observer/chapter22_Observer.iml" filepath="$PROJECT_DIR$/chapter22_Observer/chapter22_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23_State/chapter23_State.iml" filepath="$PROJECT_DIR$/chapter23_State/chapter23_State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter24_Strategy/chapter24_Strategy.iml" filepath="$PROJECT_DIR$/chapter24_Strategy/chapter24_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter25_Template/chapter25_Template.iml" filepath="$PROJECT_DIR$/chapter25_Template/chapter25_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter26_Visitor/chapter26_Visitor.iml" filepath="$PROJECT_DIR$/chapter26_Visitor/chapter26_Visitor.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Creation_mode.iml" filepath="$PROJECT_DIR$/.idea/Creation_mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_SimpleFactory/chapter3_SimpleFactory.iml" filepath="$PROJECT_DIR$/chapter3_SimpleFactory/chapter3_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4_FactoryMethod/chapter4_FactoryMethod.iml" filepath="$PROJECT_DIR$/chapter4_FactoryMethod/chapter4_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5_AbstractFactory/chapter5_AbstractFactory.iml" filepath="$PROJECT_DIR$/chapter5_AbstractFactory/chapter5_AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6_Builder/chapter6_Builder.iml" filepath="$PROJECT_DIR$/chapter6_Builder/chapter6_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter7_prototype/chapter7_prototype.iml" filepath="$PROJECT_DIR$/chapter7_prototype/chapter7_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8_Singleton/chapter8_Singleton.iml" filepath="$PROJECT_DIR$/chapter8_Singleton/chapter8_Singleton.iml" />
+    </modules>
+  </component>
+</project>

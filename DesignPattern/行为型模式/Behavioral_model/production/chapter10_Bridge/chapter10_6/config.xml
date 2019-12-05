@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<config>
+    <DataHandler>chapter10_6.OrcalHandler</DataHandler>
+    <FileConvertor>chapter10_6.XMLConvertor</FileConvertor>
+</config>
