@@ -1,0 +1,5 @@
+package sylu.springmvc.entities;
+
+public class User {
+
+}

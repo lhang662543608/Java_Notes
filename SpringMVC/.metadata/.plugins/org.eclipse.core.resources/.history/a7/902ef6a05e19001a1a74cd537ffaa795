@@ -1,0 +1,5 @@
+package sylu.springmvc.crud.handler;
+
+public class EmployeeHandler {
+
+}

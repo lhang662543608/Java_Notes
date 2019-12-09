@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+encoding//src/sylu/springmvc/interceptors/FirstInterceptor.java=UTF-8
+encoding//src/sylu/springmvc/interceptors/SecondInterceptor.java=US-ASCII

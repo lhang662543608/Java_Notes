@@ -1,0 +1,8 @@
+package sylu.springmvc.handlers;
+
+public class HelloWorld {
+	public String hello() {
+		System.out.println("hello world!");
+		return "success";
+	}
+}

@@ -1,0 +1,5 @@
+package sylu.springmvc;
+
+public class HelloWorld {
+
+}

@@ -1,0 +1,24 @@
+<classpath>
+  <container id="springmvc-1!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="F:/myLearningRoad/java_road/SpringMVC/springmvc-1/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/Spring/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-web-4.0.0.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="F:/myLearningRoad/java_road/SpringMVC/springmvc-1/WebContent/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/Spring/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-4.0.0.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="F:/myLearningRoad/java_road/SpringMVC/springmvc-1/WebContent/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/Spring/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-4.0.0.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="springmvc-2!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="F:/myLearningRoad/java_road/SpringMVC/springmvc-2/WebContent/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/Spring/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-webmvc-4.0.0.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="F:/myLearningRoad/java_road/SpringMVC/springmvc-2/WebContent/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/Spring/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-context-4.0.0.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="F:/myLearningRoad/java_road/SpringMVC/springmvc-2/WebContent/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar">
+      <source-attachment-path>D:/Program Files/Java/OpenSource/Spring/spring-framework-4.0.0.RELEASE-dist/spring-framework-4.0.0.RELEASE/libs/spring-web-4.0.0.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
