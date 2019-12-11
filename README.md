@@ -15,3 +15,4 @@
   - 在web下的应用
   - 整合struts2
 - /SpringMVC
+- /Mybatis
