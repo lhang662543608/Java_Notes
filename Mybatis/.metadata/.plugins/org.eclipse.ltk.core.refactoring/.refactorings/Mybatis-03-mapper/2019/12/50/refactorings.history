@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sylu.mybatis.dao.EmployeePlus&apos; to &apos;EmployeeMapperPlus&apos;&#x0D;&#x0A;- Original project: &apos;Mybatis-03-mapper&apos;&#x0D;&#x0A;- Original element: &apos;sylu.mybatis.dao.EmployeePlus&apos;&#x0D;&#x0A;- Renamed element: &apos;sylu.mybatis.dao.EmployeeMapperPlus&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmployeePlus&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sylu.mybatis.dao{EmployeePlus.java[EmployeePlus" matchStrategy="1" name="EmployeeMapperPlus" qualified="false" references="true" similarDeclarations="false" stamp="1576138116413" textual="false" version="1.0"/>
+</session>

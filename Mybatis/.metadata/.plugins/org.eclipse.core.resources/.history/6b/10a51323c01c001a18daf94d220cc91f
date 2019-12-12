@@ -1,0 +1,10 @@
+package sylu.mybatis.dao;
+
+import sylu.mybatis.been.Employee;
+
+public interface EmployeeMapperPlus {
+	public Employee getEmpById(Integer id);
+
+	public Employee getEmpAndDept(Integer id);
+
+}
