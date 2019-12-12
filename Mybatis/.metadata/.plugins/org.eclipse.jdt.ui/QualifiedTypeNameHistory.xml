@@ -3,7 +3,6 @@
 <fullyQualifiedTypeName name="org.apache.ibatis.type.Alias"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperAnnotation"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapper"/>
-<fullyQualifiedTypeName name="org.apache.ibatis.annotations.Param"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.annotations.MapKey"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
@@ -12,7 +11,11 @@
 <fullyQualifiedTypeName name="sylu.mybatis.been.Department"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.DepartmentMapper"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="sylu.mybatis.been.Employee"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.annotations.Param"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperDynamicSQL"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
