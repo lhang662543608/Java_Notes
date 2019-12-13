@@ -2,21 +2,26 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.apache.ibatis.type.Alias"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperAnnotation"/>
-<fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapper"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.annotations.MapKey"/>
-<fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperPlus"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="sylu.mybatis.been.Department"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.DepartmentMapper"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="sylu.mybatis.been.Employee"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Param"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperDynamicSQL"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapper"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="sylu.mybatis.been.Employee"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
 </qualifiedTypeNameHistroy>
