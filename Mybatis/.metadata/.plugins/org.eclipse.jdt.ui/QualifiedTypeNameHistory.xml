@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperPlus"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="sylu.mybatis.been.Department"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.DepartmentMapper"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.util.List"/>
@@ -18,4 +17,6 @@
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapperDynamicSQL"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
 </qualifiedTypeNameHistroy>
