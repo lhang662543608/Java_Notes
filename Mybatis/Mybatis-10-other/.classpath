@@ -8,6 +8,7 @@
 	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.37-bin.jar"/>
 	<classpathentry kind="lib" path="lib/jsqlparser-0.9.5.jar"/>
 	<classpathentry kind="lib" path="lib/pagehelper-5.0.0-rc.jar" sourcepath="D:/Program Files/Java/OpenSource/Mybatis/Jar包/pagehelper-5.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc6.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

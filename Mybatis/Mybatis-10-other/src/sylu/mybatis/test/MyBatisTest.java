@@ -17,6 +17,7 @@ import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 
 import sylu.mybatis.been.Employee;
+import sylu.mybatis.been.OraclePage;
 import sylu.mybatis.dao.EmployeeMapper;
 
 
@@ -90,6 +91,32 @@ public class MyBatisTest {
 			//Parameters: 616c1(String), b(String), 1(String)==>4598
 			//非批量：（预编译sql=设置参数=执行）==》10000    10200
 			System.out.println("执行时长："+(end-start));
+		}finally{
+			openSession.close();
+		}
+		
+	}
+	
+	/**
+	 * oracle分页：
+	 * 		借助rownum：行号；子查询；
+	 * 存储过程包装分页逻辑
+	 * @throws IOException 
+	 */
+	@Test
+	public void testProcedure() throws IOException{
+		SqlSessionFactory sqlSessionFactory = getSqlSessionFactory();
+		SqlSession openSession = sqlSessionFactory.openSession();
+		try{
+			EmployeeMapper mapper = openSession.getMapper(EmployeeMapper.class);
+			OraclePage page = new OraclePage();
+			page.setStart(1);
+			page.setEnd(5);
+			mapper.getPageByProcedure(page);
+			
+			System.out.println("总记录数："+page.getCount());
+			System.out.println("查出的数据："+page.getEmps().size());
+			System.out.println("查出的数据："+page.getEmps());
 		}finally{
 			openSession.close();
 		}

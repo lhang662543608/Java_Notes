@@ -35,13 +35,15 @@
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapper"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
-<fullyQualifiedTypeName name="sylu.mybatis.been.Employee"/>
 <fullyQualifiedTypeName name="sylu.mybatis.been.EmployeeExample"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.executor.statement.RoutingStatementHandler"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.github.pagehelper.PageHelper"/>
 <fullyQualifiedTypeName name="com.github.pagehelper.PageInfo"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.ExecutorType"/>
 <fullyQualifiedTypeName name="java.util.UUID"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="sylu.mybatis.been.Employee"/>
+<fullyQualifiedTypeName name="sylu.mybatis.been.Page"/>
+<fullyQualifiedTypeName name="sylu.mybatis.been.OraclePage"/>
 </qualifiedTypeNameHistroy>
