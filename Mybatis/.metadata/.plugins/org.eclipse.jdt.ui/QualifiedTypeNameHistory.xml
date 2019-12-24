@@ -26,7 +26,6 @@
 <fullyQualifiedTypeName name="org.apache.ibatis.io.Resources"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="org.mybatis.generator.config.xml.ConfigurationParser"/>
 <fullyQualifiedTypeName name="org.mybatis.generator.config.Configuration"/>
@@ -40,4 +39,7 @@
 <fullyQualifiedTypeName name="sylu.mybatis.been.EmployeeExample"/>
 <fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.executor.statement.RoutingStatementHandler"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.PageHelper"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.PageInfo"/>
 </qualifiedTypeNameHistroy>
