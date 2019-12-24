@@ -1,0 +1,5 @@
+package sylu.mybatis.dao;
+
+public class MySecondPlugin {
+
+}

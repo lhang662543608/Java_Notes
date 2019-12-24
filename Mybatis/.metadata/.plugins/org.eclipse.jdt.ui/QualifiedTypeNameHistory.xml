@@ -34,9 +34,10 @@
 <fullyQualifiedTypeName name="org.mybatis.generator.api.MyBatisGenerator"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="sylu.mybatis.dao.EmployeeMapper"/>
 <fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
 <fullyQualifiedTypeName name="sylu.mybatis.been.Employee"/>
 <fullyQualifiedTypeName name="sylu.mybatis.been.EmployeeExample"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.executor.statement.RoutingStatementHandler"/>
 </qualifiedTypeNameHistroy>
