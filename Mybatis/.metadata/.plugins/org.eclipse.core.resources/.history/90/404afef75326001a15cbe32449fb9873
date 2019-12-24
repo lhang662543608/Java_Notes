@@ -1,0 +1,5 @@
+package sylu.mybatis.been;
+
+public enum EmpStatus {
+	LOGIN,LOGOUT,REMOVE
+}

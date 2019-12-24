@@ -1,0 +1,13 @@
+package sylu.mybatis.been;
+
+public enum EmpStatus {
+	LOGIN(100, "用户登录"), LOGOUT(200, "用户登出"), REMOVE(300, "用户不存在");
+
+	private int code;
+	private String msg;
+
+	private EmpStatus(int code, String msg) {
+		this.code = code;
+		this.msg = msg;
+	}
+}

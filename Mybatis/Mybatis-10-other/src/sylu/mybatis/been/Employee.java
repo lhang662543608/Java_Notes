@@ -6,6 +6,17 @@ public class Employee {
 	private String email;
 	private String gender;
 
+	public EmpStatus getEmpStatus() {
+		return empStatus;
+	}
+
+	public void setEmpStatus(EmpStatus empStatus) {
+		this.empStatus = empStatus;
+	}
+
+	// Ô±¹¤×´Ì¬
+	private EmpStatus empStatus = EmpStatus.LOGOUT;
+
 	public Employee(String lastName, String email, String gender) {
 		super();
 		this.lastName = lastName;

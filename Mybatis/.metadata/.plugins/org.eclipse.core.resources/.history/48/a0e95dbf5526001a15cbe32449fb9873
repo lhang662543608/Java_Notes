@@ -1,0 +1,36 @@
+package sylu.mybatis.been;
+
+/**
+ * 希望数据库保存的都是100,200这些状态码，而不是默认的0,1或者枚举的名
+ * @author lhang
+ *
+ */
+public enum EmpStatus {
+	LOGIN(100, "用户登录"), LOGOUT(200, "用户登出"), REMOVE(300, "用户不存在");
+
+	private int code;
+	private String msg;
+
+	private EmpStatus(int code, String msg) {
+		this.code = code;
+		this.msg = msg;
+	}
+
+	public int getCode() {
+		return code;
+	}
+
+	public void setCode(int code) {
+		this.code = code;
+	}
+
+	public String getMsg() {
+		return msg;
+	}
+
+	public void setMsg(String msg) {
+		this.msg = msg;
+	}
+	
+	
+}

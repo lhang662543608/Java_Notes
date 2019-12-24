@@ -1,0 +1,10 @@
+package sylu.mybatis.typehandler;
+
+/**
+ * 1. 实现Typehandler接口或者继承BaseTypeHandler
+ * @author lhang
+ *
+ */
+public class MyEnumEmpStatusTypeHandler {
+
+}

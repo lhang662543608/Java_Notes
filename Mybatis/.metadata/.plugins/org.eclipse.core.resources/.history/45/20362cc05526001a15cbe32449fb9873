@@ -1,0 +1,14 @@
+package sylu.mybatis.typehandler;
+
+import org.apache.ibatis.type.TypeHandler;
+
+import sylu.mybatis.been.EmpStatus;
+
+/**
+ * 1. 实现Typehandler接口或者继承BaseTypeHandler
+ * @author lhang
+ *
+ */
+public class MyEnumEmpStatusTypeHandler implements TypeHandler<EmpStatus> {
+
+}
