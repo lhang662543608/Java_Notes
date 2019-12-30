@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person",
+      "type": "sylu.springboot.been.Person"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.birth",
+      "type": "java.util.Date"
+    },
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.boss",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.dog",
+      "type": "sylu.springboot.been.Dog"
+    },
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.last-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>"
+    },
+    {
+      "sourceType": "sylu.springboot.been.Person",
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>"
+    }
+  ]
+}
