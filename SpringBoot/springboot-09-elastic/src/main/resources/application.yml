@@ -1,0 +1,8 @@
+spring:
+  elasticsearch:
+    jest:
+#      proxy:
+#        host: 192.168.0.125
+#        port: 9200
+
+      uris: http://192.168.0.107:9200
